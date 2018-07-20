@@ -1,0 +1,6 @@
+[submodule "WindowsDisplayAPI"]
+	path = WindowsDisplayAPI
+	url = https://github.com/falahati/WindowsDisplayAPI
+[submodule "NvAPIWrapper"]
+	path = NvAPIWrapper
+	url = https://github.com/falahati/NvAPIWrapper
